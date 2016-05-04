@@ -1,6 +1,6 @@
 Package.describe({
   name: 'timoruetten:flow-router-ssr-request',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Simply extension for FlowRouter SSR to make it possible to access the last request object',
   git: '',
   documentation: 'README.md'
