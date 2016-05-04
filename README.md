@@ -1,4 +1,4 @@
-# Flow-Router-SRR Request
+# Flow-Router-SSR Request
 
 Easy way to get access to the request object when server side rendering.
 

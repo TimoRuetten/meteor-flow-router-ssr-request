@@ -30,7 +30,6 @@ id-map@1.0.7
 jquery@1.11.8
 kadira:flow-router-ssr@3.0.0
 livedata@1.0.18
-local-test:timoruetten:flow-router-ssr-request@0.0.1
 localstorage@1.0.9
 logging@1.0.12
 meteor@1.1.14
@@ -55,8 +54,7 @@ routepolicy@1.0.10
 service-configuration@1.0.9
 spacebars@1.0.11
 spacebars-compiler@1.0.11
-timoruetten:flow-router-ssr-request@0.0.1
-tinytest@1.0.10
+timoruetten:flow-router-ssr-request@0.0.2
 tracker@1.0.13
 ui@1.0.11
 underscore@1.0.8
