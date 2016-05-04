@@ -4,7 +4,13 @@ Easy way to get access to the request object when server side rendering.
 
 You will get global access to the method lastRequest (Server only).
 
-Use it like this:
+## Install
+
+```
+meteor add timoruetten:flow-router-ssr-request
+```
+
+## Use
 
 ```
 FlowRouter.lastRequest();
