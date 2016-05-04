@@ -15,10 +15,3 @@ Package.onUse(function(api) {
   ]);
   api.addFiles('flow-router-ssr-request.js', ['server']);
 });
-
-Package.onTest(function(api) {
-  api.use('ecmascript');
-  api.use('tinytest');
-  api.use('timoruetten:flow-router-ssr-request');
-  api.mainModule('flow-router-ssr-request-tests.js');
-});

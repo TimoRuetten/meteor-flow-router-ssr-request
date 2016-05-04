@@ -11,3 +11,5 @@ FlowRouter.lastRequest();
 ```
 
 It will return you the full request object.
+
+![alt tag](https://picload.org/image/rgaccdaa/ezgif-72579726.gif)
