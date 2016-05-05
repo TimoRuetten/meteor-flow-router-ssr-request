@@ -10,7 +10,7 @@ Package.onUse(function(api) {
   api.versionsFrom('1.3.2.4');
   api.use('ecmascript');
   api.use([
-    'meteorhacks:picker@1.0.4',
+    'meteorhacks:picker@1.0.3',
     'kadira:flow-router-ssr@3.13.0'
   ]);
   api.addFiles('flow-router-ssr-request.js', ['server']);
